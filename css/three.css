@@ -456,7 +456,7 @@
 
 .warp>.buttom{
 	width: 6.4rem;
-	height: 1.2rem;
+	height: 1.1rem;
 	display: flex;
 	text-align: center;
 	position: fixed;
@@ -476,10 +476,10 @@
 }
 .warp>.buttom>div>p{
 	width: 1.6rem;
-	margin-top: -0.7rem;
 	font-size: 0.2rem;
 	color: #7f7f7f;
-	margin-bottom: 0
+	margin-bottom: 0;
+	padding-top: 0.1rem;
 }
 .warp>.buttom>.three{
 	width: 3.21rem;

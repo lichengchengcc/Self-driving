@@ -246,10 +246,10 @@ input{
 	color: #7f7f7f;
 }
 .buttom>div>a>p{
-	margin-top: -0.7rem;
 	margin-bottom: 0.1rem;
 	font-size: 0.2rem;
 	color: #7f7f7f;
+	padding-top: 0.1rem;
 }
 
 .ban{
