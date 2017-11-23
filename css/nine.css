@@ -32,7 +32,7 @@ nav>div{
 	border:1px solid #fff;
 	text-align: right;
 }
-nav>div>a{
+nav>#nav>a{
 	text-decoration: none;
 	color: #fff
 }
