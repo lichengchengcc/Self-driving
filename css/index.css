@@ -175,17 +175,22 @@ input{
 	height: 1.96rem;
 	padding: 0 0.1rem 0.1rem 0.1rem;
 }
-.pic>div{
+.pic>div>a{
+	text-decoration: none;color: #000;
+	font-size: 0.2rem;
+	display: block;
+}
+.pic>div>a{
 	position: relative;
 }
-.pic>div>.one{
+.pic>div>a>.one{
 	font-size: 0.2rem;
 	color: #fff;
 	position: absolute;
 	top: 0.1rem;
 	left: 0.22rem;
 }
-.pic>div>.two{
+.pic>div>a>.two{
 	font-size: 0.16rem;
 	color: #fff;
 	position: absolute;
@@ -241,7 +246,7 @@ input{
 	color: #7f7f7f;
 }
 .buttom>div>a>p{
-	margin-top: -0.3rem;
+	margin-top: -0.7rem;
 	margin-bottom: 0.1rem;
 	font-size: 0.2rem;
 	color: #7f7f7f;
