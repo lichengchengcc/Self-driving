@@ -44,9 +44,9 @@ img {
 embed { 
 	vertical-align:top;
 }
-input[type="text"] {
+/*input[type="text"] {
 -webkit-appearance: none;
-}
+}*/
 textarea{
 -webkit-appearance: none;
 }
@@ -56,7 +56,7 @@ body,ul,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,iput{marg
 body{font-size:12px;}
 img{border:none;}
 li{list-style:none;}
-input,select,textarea{outline:none;}
+input,select,textarea{outline:none;outline:medium;border:none}
 textarea{resize:none;}
 a{text-decoration:none;}
 /* 清除浮动*/

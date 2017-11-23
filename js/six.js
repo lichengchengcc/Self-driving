@@ -84,7 +84,7 @@ $('#two').tap(function(){
 
 })
 
-$('#one').click(function(){
+$('#one').tap(function(){
 	var ind1 =$('#id1').val()
 	var num2 =Number(ind)+Number(ind1)
 	var num21 =Number(ind1)+Number(num2)
